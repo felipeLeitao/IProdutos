@@ -1,0 +1,14 @@
+<h2> Listagem de produtos </h2>
+
+<table class="table table-striped" >
+  <tr>
+    <th>Nome</th>
+    <th>Valor</th>
+  </tr>
+
+  <tr *ngFor="let produto of produtos">
+    <td>{{produto.nome}}</td>
+    <td>{{produto.valor}}</td>
+  </tr>
+
+</table>

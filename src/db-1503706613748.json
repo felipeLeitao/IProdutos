@@ -1,0 +1,140 @@
+{
+  "produtos": [
+    {
+      "nome": "Batata Frita",
+      "valor": 5.32
+    },
+    {
+      "nome": "Donuts",
+      "valor": 19.22
+    },
+    {
+      "nome": "Arroz",
+      "valor": 4.23
+    },
+    {
+      "nome": "Feijão",
+      "valor": 25.28
+    },
+    {
+      "nome": "Manteiga",
+      "valor": 4.23
+    },
+    {
+      "nome": "Cebola",
+      "valor": 8.23
+    },
+    {
+      "nome": "Gelatina",
+      "valor": 4.63
+    },
+    {
+      "nome": "Sal",
+      "valor": 25.29
+    },
+    {
+      "nome": "Margarina",
+      "valor": 4.23
+    },
+    {
+      "nome": "Leite",
+      "valor": 8.23
+    },
+    {
+      "nome": "Refrigerante",
+      "valor": 4.63
+    },
+    {
+      "nome": "Sanduiche",
+      "valor": 50.63
+    },
+    {
+      "nome": "Donuts",
+      "valor": 19.22
+    },
+    {
+      "nome": "Arroz",
+      "valor": 4.23
+    },
+    {
+      "nome": "Feijão",
+      "valor": 25.28
+    },
+    {
+      "nome": "Manteiga",
+      "valor": 4.23
+    },
+    {
+      "nome": "Cebola",
+      "valor": 8.23
+    },
+    {
+      "nome": "Gelatina",
+      "valor": 4.63
+    },
+    {
+      "nome": "Sal",
+      "valor": 25.29
+    },
+    {
+      "nome": "Margarina",
+      "valor": 4.23
+    },
+    {
+      "nome": "Leite",
+      "valor": 8.23
+    },
+    {
+      "nome": "Refrigerante",
+      "valor": 4.63
+    },
+    {
+      "nome": "Sanduiche",
+      "valor": 50.63
+    },
+    {
+      "nome": "Donuts",
+      "valor": 19.22
+    },
+    {
+      "nome": "Arroz",
+      "valor": 4.23
+    },
+    {
+      "nome": "Feijão",
+      "valor": 25.28
+    },
+    {
+      "nome": "Manteiga",
+      "valor": 4.23
+    },
+    {
+      "nome": "Cebola",
+      "valor": 8.23
+    },
+    {
+      "nome": "Gelatina",
+      "valor": 4.63
+    },
+    {
+      "nome": "Sal",
+      "valor": 25.29
+    },
+    {
+      "nome": "Margarina",
+      "valor": 4.23
+    },
+    {
+      "nome": "Leite",
+      "valor": 8.23
+    },
+    {
+      "nome": "Refrigerante",
+      "valor": 4.63
+    },
+    {
+      "nome": "Sanduiche",
+      "valor": 50.63
+    }
+  ]
+}
